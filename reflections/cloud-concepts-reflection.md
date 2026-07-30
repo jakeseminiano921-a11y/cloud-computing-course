@@ -8,9 +8,9 @@ In my daily routine as a student and developer, I rely on several cloud services
 * **Service Model:** Software as a Service (SaaS). I use Google Drive purely as an end-user to store files, organize notes, and collaborate on documents. Google manages the entire stack, from the physical hardware to the application interface.
 * **Deployment Model:** Public Cloud. The infrastructure is owned by Google and shared among millions of users over the public internet.
 
-**2. Heroku**
-* **Service Model:** Platform as a Service (PaaS). When deploying web backends like Django applications, Heroku provides the runtime environment, databases, and necessary deployment tools. I only need to manage my application code, while Heroku completely handles the underlying servers, networking, and operating systems.
-* **Deployment Model:** Public Cloud. Heroku operates on shared cloud infrastructure accessible to the public, even though individual application instances remain securely isolated.
+**2. Messenger**
+* **Service Model:** Software as a Service (SaaS). As an end-user, I utilize Messenger to communicate and share media with others. Meta provides the fully functional application, and I do not have to manage any of the underlying messaging servers, databases, or network infrastructure.
+* **Deployment Model:** Public Cloud. The application runs on Meta's vast, shared cloud infrastructure, which is accessible to the general public globally via the internet.
 
 **3. GCash**
 * **Service Model:** Software as a Service (SaaS). As a mobile e-wallet, it provides a complete, ready-to-use financial application. Users interact entirely with the UI and do not manage any underlying banking databases or server logic.
