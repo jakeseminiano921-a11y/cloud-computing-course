@@ -9,7 +9,7 @@ This repo serves as my organized workspace for all course requirements, includin
 - Reflection papers
 
 ## 👤 Student Information
-- **Name:** BUSTRIA GIBZEN RADAM
+- **Name:** SEMINIANO, JAKE S.
 - **Course/Section:** BSIT 4H
 - **Instructor:** TORRES JENKIELYN CORTEZ
 - **School Year:** 2026-2027
